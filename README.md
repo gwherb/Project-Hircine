@@ -4,7 +4,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][solan-linkedin-shield]][solan-linkedin-url]
 [![LinkedIn][garrett-linkedin-shield]][garrett-linkedin-url]
 
 
