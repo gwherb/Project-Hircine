@@ -15,19 +15,6 @@
   </a>
 
 <h3 align="center">Project Hircine</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com//Project-Hircine"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/gwherb/Project-Hircine">View Demo</a>
-    ·
-    <a href="https://github.com/github_u<!-- TABLE OF CONTENTS -->
-sername/Project-Hircine/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-
-  </p>
 </div>
 
 
