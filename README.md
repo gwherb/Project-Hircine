@@ -122,12 +122,6 @@ In this repo, we have broken down the project into a couple parts:
 
 **Compass Installation:** See [py_qmc5883l](https://github.com/RigacciOrg/py-qmc5883l) for compass module instructions
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* Huge thank you to the entire USASOC AI/ML Division for supporting us with this project!
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  
