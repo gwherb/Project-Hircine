@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sdegefa/Project-Hircine">
+  <a href="https://github.com/gwherb/Project-Hircine">
     <img src="images/logo.png" alt="Logo" width="180" height="180">
   </a>
 
@@ -19,10 +19,10 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/sdegefa/Project-Hircine"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com//Project-Hircine"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sdegefa/Project-Hircine">View Demo</a>
+    <a href="https://github.com/gwherb/Project-Hircine">View Demo</a>
     ·
     <a href="https://github.com/github_u<!-- TABLE OF CONTENTS -->
 sername/Project-Hircine/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -134,16 +134,16 @@ In this repo, we have broken down the project into a couple parts:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sdegefa/Project-Hircine.svg?style=for-the-badge
-[contributors-url]: https://github.com/sdegefa/Project-Hircine/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sdegefa/Project-Hircine.svg?style=for-the-badge
-[forks-url]: https://github.com/sdegefa/Project-Hircine/network/members
-[stars-shield]: https://img.shields.io/github/stars/sdegefa/Project-Hircine.svg?style=for-the-badge
-[stars-url]: https://github.com/sdegefa/Project-Hircine/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sdegefa/Project-Hircine.svg?style=for-the-badge
-[issues-url]: https://github.com/sdegefa/Project-Hircine/issues
-[license-shield]: https://img.shields.io/github/license/sdegefa/Project-Hircine.svg?style=for-the-badge
-[license-url]: https://github.com/sdegefa/Project-Hircine/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/gwherb/Project-Hircine.svg?style=for-the-badge
+[contributors-url]: https://github.com/gwherb/Project-Hircine/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gwherb/Project-Hircine.svg?style=for-the-badge
+[forks-url]: https://github.com/gwherb/Project-Hircine/network/members
+[stars-shield]: https://img.shields.io/github/stars/gwherb/Project-Hircine.svg?style=for-the-badge
+[stars-url]: https://github.com/gwherb/Project-Hircine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gwherb/Project-Hircine.svg?style=for-the-badge
+[issues-url]: https://github.com/gwherb/Project-Hircine/issues
+[license-shield]: https://img.shields.io/github/license/gwherb/Project-Hircine.svg?style=for-the-badge
+[license-url]: https://github.com/gwherb/Project-Hircine/blob/master/LICENSE.txt
 [solan-linkedin-shield]: https://img.shields.io/badge/-Solan's_LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [garrett-linkedin-shield]: https://img.shields.io/badge/-Garrett's_LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [solan-linkedin-url]: https://www.linkedin.com/in/solan-degefa-714648195/
